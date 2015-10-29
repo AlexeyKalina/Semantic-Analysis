@@ -1,0 +1,8 @@
+bin/
+obj/
+Properties/
+App.config
+App.xaml
+App.xaml.cs
+HTMLAgilityPack.dll
+Semantic Analysis.csproj
